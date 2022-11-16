@@ -10,6 +10,7 @@ public class SendHerMsg {
     private static int count = 0;
 
     public static void main(String[] args) {
+
         System.out.println("开始执行----------");
         Scanner scanner = new Scanner(System.in);
         System.out.println("请设置需发送的好友昵称：");
